@@ -1,0 +1,11 @@
+Customer Priority,Internal Notes,Company Name,Order Date,Revenue,Active Account,Product Category,Customer Since,Satisfaction Score,Region,Account Manager,VIP Status,Last Contact Date,Total Orders
+High,Initial order from trade show,Acme Corp,2024-01-15,45000.50,Yes,Enterprise,2019-03-20,9.5,North America,Sarah Johnson,TRUE,2024-12-01,127
+Medium,Referred by existing client,TechStart Inc,2024-02-20,12500.00,Yes,Small Business,2022-06-15,8.2,Europe,Mike Chen,FALSE,2024-11-28,23
+Low,Trial account,Global Solutions,2024-03-10,3200.75,No,Startup,2024-01-01,7.0,Asia Pacific,Lisa Park,FALSE,2024-11-15,5
+High,Long-term partnership,DataFlow Systems,2024-01-25,89000.00,Yes,Enterprise,2018-11-10,9.8,North America,Tom Wilson,TRUE,2024-12-03,245
+Medium,Seasonal customer,Retail Plus,2024-02-14,22000.50,Yes,Mid-Market,2021-04-22,8.5,Europe,Emma Davis,FALSE,2024-11-20,67
+High,Strategic account,CloudNet Pro,2024-03-05,156000.00,Yes,Enterprise,2017-09-05,9.7,North America,John Smith,TRUE,2024-12-02,412
+Low,Evaluation phase,StartupHub,2024-03-18,1500.00,No,Startup,2024-03-01,6.5,South America,Carlos Rodriguez,FALSE,2024-10-30,2
+Medium,Upgrade pending,MidSize Co,2024-02-28,35000.25,Yes,Mid-Market,2020-12-15,8.0,Europe,Anna Schmidt,FALSE,2024-11-25,89
+High,Premium support tier,FinanceCore,2024-01-20,210000.00,Yes,Enterprise,2016-05-30,9.9,North America,David Kim,TRUE,2024-12-04,523
+Low,Basic package,LocalBiz,2024-03-22,4800.00,Yes,Small Business,2023-07-18,7.5,Australia,James Taylor,FALSE,2024-11-10,12
