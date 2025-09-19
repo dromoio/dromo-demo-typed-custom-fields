@@ -11,7 +11,7 @@ A sophisticated React implementation for CSV imports with automatic custom field
 
 Watch a quick demo of the custom fields system in action:
 
-[![Dromo Custom Fields Demo](https://cdn.loom.com/sessions/thumbnails/a876b940a2534e83b968763e6d4b0dce-with-play.gif)](https://www.loom.com/share/a876b940a2534e83b968763e6d4b0dce?sid=75338191-897d-4e07-b7cf-b339863a676d)
+[▶️ **Watch Demo Video**](https://www.loom.com/share/a876b940a2534e83b968763e6d4b0dce?sid=75338191-897d-4e07-b7cf-b339863a676d) - See the automatic custom field detection and configuration in action
 
 ## ✨ Features
 
