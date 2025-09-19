@@ -7,6 +7,12 @@ A sophisticated React implementation for CSV imports with automatic custom field
 ![React](https://img.shields.io/badge/React-19.0-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-15.0-black.svg)
 
+## 🎥 Demo
+
+Watch a quick demo of the custom fields system in action:
+
+[![Dromo Custom Fields Demo](https://cdn.loom.com/sessions/thumbnails/a876b940a2534e83b968763e6d4b0dce-with-play.gif)](https://www.loom.com/share/a876b940a2534e83b968763e6d4b0dce?sid=75338191-897d-4e07-b7cf-b339863a676d)
+
 ## ✨ Features
 
 - 🎯 **Automatic Custom Field Detection** - Identifies unmapped columns in CSV files
